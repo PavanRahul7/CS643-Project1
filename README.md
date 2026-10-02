@@ -3,8 +3,8 @@
 An image recognition pipeline on AWS that uses two EC2 instances running in parallel, Amazon S3, Amazon SQS, Amazon Rekognition, and Amazon Textract. Both applications are written in Java and run on Amazon Linux.
 
 **Course:** CS 643 Cloud Computing, Project 1 (Fall 2026), New Jersey Institute of Technology
-**Author:** Pavan Rahul Konathala
-**Demo video:** <PASTE PUBLIC YOUTUBE LINK HERE>
+<br>**Author:** Pavan Rahul Konathala<br>
+<br>**Demo video:** < https://youtu.be/paf2y7skXe8><br>
 
 ## Goal
 
